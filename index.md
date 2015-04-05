@@ -1,11 +1,9 @@
 ---
 layout: page
-title: I Am A Punk Monkey
-tagline: What am I doing here?
+title: Wait, who are you? Who am I?
 ---
 {% include JB/setup %}
 
-#Wait, who are you? Who am I?
 Hey there, so this is where most of my ramblings are going to probably live. I have the attention span of a 2 year old, the imagination of a 5 year old, the fashion sense of a 16 year old, and I have been told that I have an old soul. So who knows where this is going to end up, but I am sure it is either going to be extremely boring or really confusing. My money is on the latter.
 
 ### Post List
